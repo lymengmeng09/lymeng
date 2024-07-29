@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: orange;
+    background: #000;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+    color: blue;
+}
+#active{
+    background: teal;
+    color: rgb(255, 221, 0);
+}
+
+
+
+
